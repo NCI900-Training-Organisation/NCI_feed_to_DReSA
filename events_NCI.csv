@@ -61,17 +61,6 @@ Version Control with Git,https://events.humanitix.com/version-control-with-git-m
 Version control is the lab notebook of the digital world: it�s what professionals use to keep track of what they�ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn�t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.",20250526T090000,20250526T133000,Canberra,training.nci@anu.edu.au,NCI,open_to_all,QCIF,TRUE,,,"""Online"""
 Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q?mc_cid=6c71c3726b&mc_eid=UNIQID#/registration,"""Introduction to Gadi is designed for new users""",20250530T110000,20250530T130000,Canberra,training.nci@anu.edu.au,NCI,open_to_all,QCIF,TRUE,,,"""Online"""
 Gadi Support Sesh,https://anu.zoom.us/meeting/tZcrc-Cvqz0oE9NeRWLQY2KtALvysPtDzzZk/ics?icsToken=DN4rAiGBNcA8PQD6UwAALAAAAPZ2opojQF1PLWGbzpKxDpDOEhJDhjMld96kmJbyv_1dbexM2V0gLq7CzEPrsw6hbPampy09xlYSDVWrXjAwMDAwMQ&mc_cid=6c71c3726b&mc_eid=UNIQID,"""A drop-in session to support NCI users with Gadi related issues.""",20250530T140000,20250530T150000,Canberra,training.nci@anu.edu.au,NCI,open_to_all,QCIF,TRUE,,,"""Online"""
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
 ﻿Clustering and Unsupervised Methods in Machine Learning (Jul 2025) - NCI,https://events.humanitix.com/clustering-and-unsupervised-methods-in-machine-learning-jul-2025-nci,"Uncover the latent patterns and structures within your datasets. You’ll explore core clustering algorithms—k-means, hierarchical and density-based—and dimensionality reduction methods like PCA and t-SNE for visualisation and feature extraction.
 
 Through interactive Python coding exercises, you’ll apply these techniques to real datasets, evaluate cluster validity, and explore applications—from customer segmentation to anomaly detection. While no prior machine learning experience is required, a working knowledge of Python and statistics is recommended.
@@ -79,12 +68,3 @@ Through interactive Python coding exercises, you’ll apply these techniques to 
 Please register only if you are able to attend the full session.",20250729T093000,20250729T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
 Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20250731T100000,20250731T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
 Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20250731T130000,20250731T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
-Hands-on with Gadi,https://events.humanitix.com/hands-on-with-gadi ,"The ""Hands-on with Gadi"" workshop offers participants practical experience with NCI's Gadi supercomputer. The tutorial covers an introduction to high-performance computing (HPC), NCI, and Gadi, providing foundational knowledge on computer architecture and the components of an HPC system. Participants will learn to navigate the Australian Research Environment (ARE), utilise basic Linux commands, manage files and directories, and submitting compute jobs and using Jupyter notebooks within the ARE. ",20250813T100000,20250813T130000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
-Introduction to High Performance Computing (HPC) (Aug 2025) - NCI,https://events.humanitix.com/introduction-to-high-performance-computing-hpc-aug-2025-nci,"This workshop provides participants with a comprehensive introduction to High Performance Computing (HPC) and hands-on training with the Gadi supercomputer, Australia’s most powerful CPU-based research system.
-
-The workshop covers the fundamentals of HPC, the architecture and capabilities of Gadi, and practical skills for accessing, navigating, and utilising the system for computational research tasks. Participants will learn how to securely connect to Gadi, manage software environments, write and submit job scripts, optimise computational workflows, and avoid common pitfalls. Designed for researchers the workshop helps participants to gain confidence in using Gadi to accelerate their research.
-
-Please only register if you are able to fully commit to attending *all* three sessions.",20250814T093000,20250815T143000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
-Introduction to Image Classification (Aug 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-aug-2025-nci,"Image classification is a fundamental task in computer vision, which is a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world. Image classification specifically involves the process of assigning a label or category to an input image. The goal is to enable computers to recognise and categorise objects, scenes, or patterns within images, just as a human would.
-
-*Please ensure you can fully commit to attending both sessions before registering.",20250819T093000,20250820T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
