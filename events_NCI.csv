@@ -61,6 +61,17 @@ Version Control with Git,https://events.humanitix.com/version-control-with-git-m
 Version control is the lab notebook of the digital world: it�s what professionals use to keep track of what they�ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn�t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.",20250526T090000,20250526T133000,Canberra,training.nci@anu.edu.au,NCI,open_to_all,QCIF,TRUE,,,"""Online"""
 Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q?mc_cid=6c71c3726b&mc_eid=UNIQID#/registration,"""Introduction to Gadi is designed for new users""",20250530T110000,20250530T130000,Canberra,training.nci@anu.edu.au,NCI,open_to_all,QCIF,TRUE,,,"""Online"""
 Gadi Support Sesh,https://anu.zoom.us/meeting/tZcrc-Cvqz0oE9NeRWLQY2KtALvysPtDzzZk/ics?icsToken=DN4rAiGBNcA8PQD6UwAALAAAAPZ2opojQF1PLWGbzpKxDpDOEhJDhjMld96kmJbyv_1dbexM2V0gLq7CzEPrsw6hbPampy09xlYSDVWrXjAwMDAwMQ&mc_cid=6c71c3726b&mc_eid=UNIQID,"""A drop-in session to support NCI users with Gadi related issues.""",20250530T140000,20250530T150000,Canberra,training.nci@anu.edu.au,NCI,open_to_all,QCIF,TRUE,,,"""Online"""
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
 ﻿Clustering and Unsupervised Methods in Machine Learning (Jul 2025) - NCI,https://events.humanitix.com/clustering-and-unsupervised-methods-in-machine-learning-jul-2025-nci,"Uncover the latent patterns and structures within your datasets. You’ll explore core clustering algorithms—k-means, hierarchical and density-based—and dimensionality reduction methods like PCA and t-SNE for visualisation and feature extraction.
 
 Through interactive Python coding exercises, you’ll apply these techniques to real datasets, evaluate cluster validity, and explore applications—from customer segmentation to anomaly detection. While no prior machine learning experience is required, a working knowledge of Python and statistics is recommended.
@@ -77,46 +88,3 @@ Please only register if you are able to fully commit to attending *all* three se
 Introduction to Image Classification (Aug 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-aug-2025-nci,"Image classification is a fundamental task in computer vision, which is a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world. Image classification specifically involves the process of assigning a label or category to an input image. The goal is to enable computers to recognise and categorise objects, scenes, or patterns within images, just as a human would.
 
 *Please ensure you can fully commit to attending both sessions before registering.",20250819T093000,20250820T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
-Parallel Programming - Introduction to OpenMP,https://events.humanitix.com/parallel-programming-introduction-to-openmp ,"Many scientific modelling programs rely on numerical iterative methods, e.g. Finite Difference method, Conjugate Gradient method etc. or stochastic methods such as Monte-Carlo methods. The nature of those methods heavily involves iterations. More often they are the bottleneck of the code's performance.
-
-OpenMP is a directive-based API (application programming interface) for writing parallel programs on a shared-memory system. The implementation renders parallelism for programs by running concurrent multithreads. The common usage case is to accelerate nested loops by sharing workloads between multiple threads, which had been its main delivery before OpenMP 3.0.
-
-The workshop is designed to introduce some most common yet powerful OpenMP practices to scientists to quickly turn a serial iterative C code into parallel.
-
-If you have any questions regarding this training, please contact training.nci@anu.edu.au.",20250826T093000,20250826T163000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
-Fundamentals of Regression in Machine Learning (Sep 2025) - NCI,https://events.humanitix.com/fundamentals-of-regression-in-machine-learning-sep-2025-nci,"Join this 4-hour workshop to master regression in machine learning. Learn simple and multiple linear regression, regularisation techniques, model evaluation, Bayesian methods, and uncertainty quantification.
-
-Through hands-on Python exercises, you'll build, interpret, and optimize regression models with real-world data and use NCI facilities.
-
-Basic Python and statistics knowledge required; no prior machine learning experience needed.
-
-*Please ensure you can fully commit to attending this session before registering.",20250911T093000,20250911T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
-Fundamentals of Classification in Machine Learning (Sep 2025) - NCI,https://events.humanitix.com/fundamentals-of-classification-in-machine-learning-sep-2025-nci,"This interactive 4-hour workshop covers core concepts in classification, including logistic regression, SVM, and neural networks.
-
-Participants will learn to evaluate models and handle imbalanced data through practical coding exercises using Python libraries (Scikit-Learn, NumPy, Pandas, Matplotlib). By the end, attendees will be able to build, interpret, and optimise classification models for real-world applications.
-
-Please register only if you are able to attend the full session.",20250922T093000,20250922T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
-Decision Trees and Ensemble Methods in Machine Learning (Oct 2025) - NCI,https://events.humanitix.com/decision-trees-and-ensemble-methods-in-machine-learning-oct-2025-nci,"Join us to explore decision tree techniques. You’ll learn the underlying theory, how to handle overfitting, and explore advanced tree-based methods, including Random Forests, Gradient Boosting, and XGBoost.
-
-Through Python coding exercises, you will build and fine-tune decision tree models on real-world datasets. While no prior machine learning experience is required, basic Python and statistics knowledge are recommended.
-
-Please register only if you are able to attend the full session.",20251001T093000,20251001T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
-Clustering and Unsupervised Methods in Machine Learning (Oct 2025) - NCI,https://events.humanitix.com/clustering-and-unsupervised-methods-in-machine-learning-oct-2025-nci,"Uncover the latent patterns and structures within your datasets. You’ll explore core clustering algorithms—k-means, hierarchical and density-based—and dimensionality reduction methods like PCA and t-SNE for visualisation and feature extraction.
-
-Through interactive Python coding exercises, you’ll apply these techniques to real datasets, evaluate cluster validity, and explore applications—from customer segmentation to anomaly detection. While no prior machine learning experience is required, a working knowledge of Python and statistics is recommended.
-
-Please register only if you are able to attend the full session.",20251014T100000,20251014T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
-Introduction to Image Classification (Nov 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-nov-2025-nci,"Image classification is a fundamental task in computer vision, which is a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world. Image classification specifically involves the process of assigning a label or category to an input image. The goal is to enable computers to recognise and categorise objects, scenes, or patterns within images, just as a human would.
-
-*Please ensure you can fully commit to attending both sessions before registering.",20251112T100000,20251113T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
