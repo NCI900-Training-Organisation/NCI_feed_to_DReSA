@@ -120,3 +120,221 @@ Through interactive Python coding exercises, you’ll apply these techniques to 
 
 
 Please register only if you are able to attend the full session.",20251014T100000,20251014T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+﻿Fundamentals of Regression in Machine Learning (Sep 2025) - NCI,https://events.humanitix.com/fundamentals-of-regression-in-machine-learning-sep-2025-nci,"Join this 4-hour workshop to master regression in machine learning. Learn simple and multiple linear regression, regularisation techniques, model evaluation, Bayesian methods, and uncertainty quantification.
+
+Through hands-on Python exercises, you'll build, interpret, and optimize regression models with real-world data and use NCI facilities.
+
+Basic Python and statistics knowledge required; no prior machine learning experience needed.
+
+*Please ensure you can fully commit to attending this session before registering.",20250911T093000,20250911T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+GPU Programming - Introduction to CUDA,https://events.humanitix.com/gpu-programming-introduction-to-cuda,"Introduction to CUDA programming using C covers the fundamentals of parallel programming with NVIDIA’s CUDA platform, including concepts such as GPU architecture, memory management, kernel functions, and performance optimization. The materials are designed for beginners and include step-by-step tutorials, practical examples, and exercises to help you get started with writing and running CUDA programs in C.",20250917T130000,20250918T130000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Fundamentals of Classification in Machine Learning (Sep 2025) - NCI,https://events.humanitix.com/fundamentals-of-classification-in-machine-learning-sep-2025-nci,"This interactive 4-hour workshop covers core concepts in classification, including logistic regression, SVM, and neural networks.
+
+Participants will learn to evaluate models and handle imbalanced data through practical coding exercises using Python libraries (Scikit-Learn, NumPy, Pandas, Matplotlib). By the end, attendees will be able to build, interpret, and optimise classification models for real-world applications.
+
+Please register only if you are able to attend the full session.",20250922T093000,20250922T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20250925T100000,20250925T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20250925T130000,20250925T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Decision Trees and Ensemble Methods in Machine Learning (Oct 2025) - NCI,https://events.humanitix.com/decision-trees-and-ensemble-methods-in-machine-learning-oct-2025-nci,"Join us to explore decision tree techniques. You’ll learn the underlying theory, how to handle overfitting, and explore advanced tree-based methods, including Random Forests, Gradient Boosting, and XGBoost.
+
+
+
+Through Python coding exercises, you will build and fine-tune decision tree models on real-world datasets. While no prior machine learning experience is required, basic Python and statistics knowledge are recommended.
+
+
+
+Please register only if you are able to attend the full session.",20251001T093000,20251001T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Clustering and Unsupervised Methods in Machine Learning (Oct 2025) - NCI,https://events.humanitix.com/clustering-and-unsupervised-methods-in-machine-learning-oct-2025-nci,"Uncover the latent patterns and structures within your datasets. You’ll explore core clustering algorithms—k-means, hierarchical and density-based—and dimensionality reduction methods like PCA and t-SNE for visualisation and feature extraction.
+
+
+
+Through interactive Python coding exercises, you’ll apply these techniques to real datasets, evaluate cluster validity, and explore applications—from customer segmentation to anomaly detection. While no prior machine learning experience is required, a working knowledge of Python and statistics is recommended.
+
+
+
+Please register only if you are able to attend the full session.",20251014T100000,20251014T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20251030T100000,20251030T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20251030T130000,20251030T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Introduction to Image Classification (Nov 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-nov-2025-nci,"Image classification is a fundamental task in computer vision, a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world.
+
+With this hands-on workshop, participants will learn how to enable computers to recognise patterns within images using a Convolutional Neural Network (CNN). Through coding exercises in Python, attendees will load and pre-process input images, build, train and evaluate a CNN to make classification predictions.
+
+Please register only if you are able to attend both sessions.",20251112T100000,20251113T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+﻿Fundamentals of Regression in Machine Learning (Sep 2025) - NCI,https://events.humanitix.com/fundamentals-of-regression-in-machine-learning-sep-2025-nci,"Join this 4-hour workshop to master regression in machine learning. Learn simple and multiple linear regression, regularisation techniques, model evaluation, Bayesian methods, and uncertainty quantification.
+
+Through hands-on Python exercises, you'll build, interpret, and optimize regression models with real-world data and use NCI facilities.
+
+Basic Python and statistics knowledge required; no prior machine learning experience needed.
+
+*Please ensure you can fully commit to attending this session before registering.",20250911T093000,20250911T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+GPU Programming - Introduction to CUDA,https://events.humanitix.com/gpu-programming-introduction-to-cuda,"Introduction to CUDA programming using C covers the fundamentals of parallel programming with NVIDIA’s CUDA platform, including concepts such as GPU architecture, memory management, kernel functions, and performance optimization. The materials are designed for beginners and include step-by-step tutorials, practical examples, and exercises to help you get started with writing and running CUDA programs in C.",20250917T130000,20250918T130000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Fundamentals of Classification in Machine Learning (Sep 2025) - NCI,https://events.humanitix.com/fundamentals-of-classification-in-machine-learning-sep-2025-nci,"This interactive 4-hour workshop covers core concepts in classification, including logistic regression, SVM, and neural networks.
+
+Participants will learn to evaluate models and handle imbalanced data through practical coding exercises using Python libraries (Scikit-Learn, NumPy, Pandas, Matplotlib). By the end, attendees will be able to build, interpret, and optimise classification models for real-world applications.
+
+Please register only if you are able to attend the full session.",20250922T093000,20250922T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20250925T100000,20250925T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20250925T130000,20250925T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Decision Trees and Ensemble Methods in Machine Learning (Oct 2025) - NCI,https://events.humanitix.com/decision-trees-and-ensemble-methods-in-machine-learning-oct-2025-nci,"Join us to explore decision tree techniques. You’ll learn the underlying theory, how to handle overfitting, and explore advanced tree-based methods, including Random Forests, Gradient Boosting, and XGBoost.
+
+
+
+Through Python coding exercises, you will build and fine-tune decision tree models on real-world datasets. While no prior machine learning experience is required, basic Python and statistics knowledge are recommended.
+
+
+
+Please register only if you are able to attend the full session.",20251001T093000,20251001T133000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Clustering and Unsupervised Methods in Machine Learning (Oct 2025) - NCI,https://events.humanitix.com/clustering-and-unsupervised-methods-in-machine-learning-oct-2025-nci,"Uncover the latent patterns and structures within your datasets. You’ll explore core clustering algorithms—k-means, hierarchical and density-based—and dimensionality reduction methods like PCA and t-SNE for visualisation and feature extraction.
+
+
+
+Through interactive Python coding exercises, you’ll apply these techniques to real datasets, evaluate cluster validity, and explore applications—from customer segmentation to anomaly detection. While no prior machine learning experience is required, a working knowledge of Python and statistics is recommended.
+
+
+
+Please register only if you are able to attend the full session.",20251014T100000,20251014T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Deep Learning Model Development in Weather and Climate Studies,https://events.humanitix.com/introduction-of-deep-learning-development-in-weather-and-climate-studies-ess2kpxd,"Discover how deep learning is transforming weather and climate science. This hands-on workshop introduces key concepts and practical tools for building and training deep learning models using real-world meteorological data. Designed for researchers and practitioners, the session explores model architectures, workflows, and evaluation strategies tailored for environmental data.",20251030T130000,20251030T160000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Software and Data Modernisation,TRUE,,Australia,Online
+Large Language Models for Research (Oct 2025) - NCI,https://events.humanitix.com/large-language-models-for-research-oct-2025-nci,,20251027T100000,20251027T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20251030T100000,20251030T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20251030T130000,20251030T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Introduction to Image Classification (Nov 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-nov-2025-nci,"Image classification is a fundamental task in computer vision, a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world.
+
+With this hands-on workshop, participants will learn how to enable computers to recognise patterns within images using a Convolutional Neural Network (CNN). Through coding exercises in Python, attendees will load and pre-process input images, build, train and evaluate a CNN to make classification predictions.
+
+Please register only if you are able to attend both sessions.",20251112T100000,20251113T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+﻿Deep Learning Model Development in Weather and Climate Studies,https://events.humanitix.com/introduction-of-deep-learning-development-in-weather-and-climate-studies-ess2kpxd,"Join NCI experts to discover how deep learning is reshaping weather and climate science, and gain the skills you need to start exploring these powerful approaches in your own work.
+This webinar will highlight recent advances in weather and climate modelling, featuring state-of-the-art models and NCI resources that support deep learning research in Australia. Suitable for anyone who is interested in the field.
+Participants will also be introduced to the NCI Inference Server for model comparison and benchmarking, invited to share feedback in the community discussion, and have the option to attend upcoming hands-on sessions on the topic.",20251106T130000,20251106T160000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Software and Data Modernisation,TRUE,,Australia,Online
+Introduction to Image Classification (Nov 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-nov-2025-nci,"Image classification is a fundamental task in computer vision, a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world.
+
+With this hands-on workshop, participants will learn how to enable computers to recognise patterns within images using a Convolutional Neural Network (CNN). Through coding exercises in Python, attendees will load and pre-process input images, build, train and evaluate a CNN to make classification predictions.
+
+Please register only if you are able to attend both sessions.",20251112T100000,20251113T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Large Language Models for Research (Nov 2025) - NCI,https://events.humanitix.com/large-language-models-for-research-nov-2025-nci,"Large Language Models (LLMs), such as Llama, GPT, and Mistral, are transforming how researchers discover, manage, and analyse information.
+
+In this interactive 4-hour workshop, participants will learn how to automate summarisation and organisation of scientific literature using an LLM by interacting with models via Python and Jupyter Notebooks.
+
+Participants should have basic knowledge of Python and statistics.
+
+Please register only if you are able to attend the full session.",20251118T100000,20251118T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20251127T100000,20251127T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20251127T130000,20251127T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+﻿Introduction to Image Classification (Nov 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-nov-2025-nci,"Image classification is a fundamental task in computer vision, a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world.
+
+With this hands-on workshop, participants will learn how to enable computers to recognise patterns within images using a Convolutional Neural Network (CNN). Through coding exercises in Python, attendees will load and pre-process input images, build, train and evaluate a CNN to make classification predictions.
+
+Please register only if you are able to attend both sessions.",20251112T100000,20251113T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Large Language Models for Research (Nov 2025) - NCI,https://events.humanitix.com/large-language-models-for-research-nov-2025-nci,"Large Language Models (LLMs), such as Llama, GPT, and Mistral, are transforming how researchers discover, manage, and analyse information.
+
+In this interactive 4-hour workshop, participants will learn how to automate summarisation and organisation of scientific literature using an LLM by interacting with models via Python and Jupyter Notebooks.
+
+Participants should have basic knowledge of Python and statistics.
+
+Please register only if you are able to attend the full session.",20251118T100000,20251118T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20251127T100000,20251127T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20251127T130000,20251127T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+﻿Introduction to Image Classification (Nov 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-nov-2025-nci,"Image classification is a fundamental task in computer vision, a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world.
+
+With this hands-on workshop, participants will learn how to enable computers to recognise patterns within images using a Convolutional Neural Network (CNN). Through coding exercises in Python, attendees will load and pre-process input images, build, train and evaluate a CNN to make classification predictions.
+
+Please register only if you are able to attend both sessions.",20251112T100000,20251113T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Large Language Models for Research (Nov 2025) - NCI,https://events.humanitix.com/large-language-models-for-research-nov-2025-nci,"Large Language Models (LLMs), such as Llama, GPT, and Mistral, are transforming how researchers discover, manage, and analyse information.
+
+In this interactive 4-hour workshop, participants will learn how to automate summarisation and organisation of scientific literature using an LLM by interacting with models via Python and Jupyter Notebooks.
+
+Participants should have basic knowledge of Python and statistics.
+
+Please register only if you are able to attend the full session.",20251118T100000,20251118T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20251127T100000,20251127T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20251127T130000,20251127T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+﻿Introduction to Image Classification (Nov 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-nov-2025-nci,"Image classification is a fundamental task in computer vision, a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world.
+
+With this hands-on workshop, participants will learn how to enable computers to recognise patterns within images using a Convolutional Neural Network (CNN). Through coding exercises in Python, attendees will load and pre-process input images, build, train and evaluate a CNN to make classification predictions.
+
+Please register only if you are able to attend both sessions.",20251112T100000,20251113T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Large Language Models for Research (Nov 2025) - NCI,https://events.humanitix.com/large-language-models-for-research-nov-2025-nci,"Large Language Models (LLMs), such as Llama, GPT, and Mistral, are transforming how researchers discover, manage, and analyse information.
+
+In this interactive 4-hour workshop, participants will learn how to automate summarisation and organisation of scientific literature using an LLM by interacting with models via Python and Jupyter Notebooks.
+
+Participants should have basic knowledge of Python and statistics.
+
+Please register only if you are able to attend the full session.",20251118T100000,20251118T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20251127T100000,20251127T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20251127T130000,20251127T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+﻿Introduction to Image Classification (Nov 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-nov-2025-nci,"Image classification is a fundamental task in computer vision, a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world.
+
+With this hands-on workshop, participants will learn how to enable computers to recognise patterns within images using a Convolutional Neural Network (CNN). Through coding exercises in Python, attendees will load and pre-process input images, build, train and evaluate a CNN to make classification predictions.
+
+Please register only if you are able to attend both sessions.",20251112T100000,20251113T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Large Language Models for Research (Nov 2025) - NCI,https://events.humanitix.com/large-language-models-for-research-nov-2025-nci,"Large Language Models (LLMs), such as Llama, GPT, and Mistral, are transforming how researchers discover, manage, and analyse information.
+
+In this interactive 4-hour workshop, participants will learn how to automate summarisation and organisation of scientific literature using an LLM by interacting with models via Python and Jupyter Notebooks.
+
+Participants should have basic knowledge of Python and statistics.
+
+Please register only if you are able to attend the full session.",20251118T100000,20251118T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20251127T100000,20251127T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20251127T130000,20251127T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+﻿Introduction to Image Classification (Nov 2025) - NCI,https://events.humanitix.com/introduction-to-image-classification-nov-2025-nci,"Image classification is a fundamental task in computer vision, a field of artificial intelligence focused on teaching computers to interpret and understand visual information from the world.
+
+With this hands-on workshop, participants will learn how to enable computers to recognise patterns within images using a Convolutional Neural Network (CNN). Through coding exercises in Python, attendees will load and pre-process input images, build, train and evaluate a CNN to make classification predictions.
+
+Please register only if you are able to attend both sessions.",20251112T100000,20251113T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Large Language Models for Research (Nov 2025) - NCI,https://events.humanitix.com/large-language-models-for-research-nov-2025-nci,"Large Language Models (LLMs), such as Llama, GPT, and Mistral, are transforming how researchers discover, manage, and analyse information.
+
+In this interactive 4-hour workshop, participants will learn how to automate summarisation and organisation of scientific literature using an LLM by interacting with models via Python and Jupyter Notebooks.
+
+Participants should have basic knowledge of Python and statistics.
+
+Please register only if you are able to attend the full session.",20251118T100000,20251118T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;QCIF,TRUE,,Australia,Online
+Seminar on Getting Started with Gadi,https://anu.zoom.us/webinar/register/WN_qKYfKqS_Tm-25E6b6rnM2Q#/registration ,"This 2-hour, seminar-style session is held monthly and covers the essentials of using Gadi — including the file system, user login, job submission, and more. It’s ideal for both new users and those looking for a quick refresher.",20251127T100000,20251127T120000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+Gadi Support Sesh,https://anu.zoom.us/j/83649756297?pwd=WlJjWm1rSmpNditpSkhvQ3JwemNRQT09&mc_cid=70d423396d&mc_eid=c9940d2918#success,Join our drop-in session to connect with NCI experts and get help with any challenges you're facing while using our services. No registration required. Please use the link below to book a time.,20251127T130000,20251127T140000,Canberra,training.nci@anu.edu.au,NCI,expression_of_interest,NCI;NCI Training,TRUE,,Australia,Online
+﻿Introduction to Gadi,,,202404261200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+Introduction to NLP,,,202404191200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI Training,TRUE,,Australia,Online
+Parallel Python,,,202404181200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI Training,TRUE,,Australia,Online
+C Programming for Python Programmers,,,202404101200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI Training,TRUE,,Australia,Online
+Introduction to Gadi,,,202311241200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+Introduction to Gadi,,,202310271200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+Gadi for Bioinformatic Analysis,,,202310191200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI Training,TRUE,,Australia,Online
+Data Manipulation and Visualisation in R,,,202310181200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Databases and SQL,,,202310171200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Getting started with HPC using PBS Pro,,,202310111200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Learn to Program: Python,,,202310111200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Learn to Program: R,,,202310041200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Unix Shell and Command Line Basics,,,202309271200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Introduction to Gadi,,,202309221200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+AI/ML Applications on Gadi - Natural Language Processing,,,202309121200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI Training,TRUE,,Australia,Online
+Introduction to Machine Learning using Python: SVM & Unsupervised Learning,,,202309051200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Introduction to Gadi,,,202309011200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+Introduction to Gadi and Data Analytics,,,202309011200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI Training,TRUE,,Australia,Online
+Introduction to Machine Learning using Python: Classification,,,202308291200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Introduction to Machine Learning using Python: Introduction & Linear Regression,,,202308221200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Data Manipulation and Visualisation in Python,,,202308011200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Learn to Program: Python,,,202307251200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Getting started with HPC using PBS Pro,,,202307181200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Data Manipulation and Visualisation in Python,,,202307111200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Unix Shell and Command Line Basics,,,202307061200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Learn to Program: Python,,,202307041200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Introduction to Gadi,,,202306231200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+Introduction to Machine Learning using Python: SVM & Unsupervised Learning,,,202306211200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+OOD-ARE Info Session,,,202306201200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+Introduction to Machine Learning using Python: Classification,,,202306131200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Introduction to Machine Learning using Python: Introduction & Linear Regression,,,202306061200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Data Manipulation and Visualisation in R,,,202305311200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+NCI - NVIDIA Open Hackathon 2023,,,202305301200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NVIDIA,FALSE,,Australia,Hybrid
+Introduction to Gadi,,,202305261200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+Learn to Program: R,,,202305231200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Getting started with HPC using PBS Pro,,,202305181200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Introduction to Gadi,,,202304281200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+Unix Shell and Command Line Basics,,,202304281200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Data Manipulation and Visualisation in Python,,,202304181200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+End to End AI for Science Bootcamp,,,202304181200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NVIDIA,TRUE,,Australia,Online
+N-Ways to GPU Programming Bootcamp,,,202304121200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NVIDIA,TRUE,,Australia,Online
+Learn to Program: Python,,,202304041200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Getting started with HPC using PBS Pro,,,202303281200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Introduction to Gadi,,,202303241200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;NCI User Services,TRUE,,Australia,Online
+Unix Shell and Command Line Basics,,,202303171200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Data Manipulation and Visualisation in R,,,202303151200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Data Manipulation and Visualisation in Python,,,202303081200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Learn to Program: R,,,202303011200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
+Learn to Program: Python,,,202302211200,,Canberra,training.nci@anu.edu.au,NCI,NCI Users,NCI;Intersect,TRUE,,Australia,Online
